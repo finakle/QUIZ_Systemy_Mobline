@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_activity">W Polsce istenieją 2 pory roku.. </string>
+    <string name="q_version">Ziemia jest kwadratem.</string>
+    <string name="q_listener">Koty ważą do 300kg. </string>
+    <string name="q_resources">Politechnika Białotocka posiada kierunki medyczne.. </string>
+    <string name="q_find_resources">Po lecie jest wiosna. </string>
+
+    <string name="correct_answer">To jest dobra odpowiedż. </string>
+    <string name="incorrect_answer">To jest zła odpowiedż. </string>
+</resources>
