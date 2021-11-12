@@ -4,12 +4,16 @@
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
 
-    <string name="q_activity">W Polsce istenieją 2 pory roku.. </string>
-    <string name="q_version">Ziemia jest kwadratem.</string>
-    <string name="q_listener">Koty ważą do 300kg. </string>
-    <string name="q_resources">Politechnika Białotocka posiada kierunki medyczne.. </string>
-    <string name="q_find_resources">Po lecie jest wiosna. </string>
+
+    <string name="q_activity">1.W Polsce istenieją 2 pory roku.. </string>
+    <string name="q_version">5.Ziemia jest kwadratem.</string>
+    <string name="q_listener">3.Koty ważą do 300kg. </string>
+    <string name="q_resources">4.Politechnika Białotocka posiada kierunki medyczne.. </string>
+    <string name="q_find_resources">2..Po lecie jest wiosna. </string>
 
     <string name="correct_answer">To jest dobra odpowiedż. </string>
     <string name="incorrect_answer">To jest zła odpowiedż. </string>
+    <string name="answer_was_shown">Zajrzałeś do odpowiedzi!!! </string>
+    <string name="show_prompt">Czy na 100% chcesz otrzymać podpowiedź? </string>
+    <string name="buttonprompt">Pokaż odpowiedź </string>
 </resources>

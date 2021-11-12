@@ -13,6 +13,7 @@
         android:id="@+id/question_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#DFCFFB"
         android:gravity="center"
         android:text="TextView" />
 
@@ -26,19 +27,28 @@
             android:id="@+id/true_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button_true" />
+            android:text="@string/button_true"
+            app:backgroundTint="#DBA3E4" />
 
         <Button
             android:id="@+id/false_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button_false" />
+            android:text="@string/button_false"
+            app:backgroundTint="#DBA7E4" />
     </LinearLayout>
 
     <Button
         android:id="@+id/next_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button_next" />
+        android:text="@string/button_next"
+        app:backgroundTint="#8C62D8" />
+
+    <Button
+        android:id="@+id/promptbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź" />
 
 </LinearLayout>
